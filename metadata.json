@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia University Dublin",
+  "description": "Official university portal for Aurelia University Dublin featuring academic programmes, admissions, research, campus life, news, events, and administrative management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
